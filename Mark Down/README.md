@@ -1,7 +1,7 @@
 Heading
 =======
 
-## Sub-heading
+### Sub-heading
  
 Paragraphs are separated
 by a blank line.
