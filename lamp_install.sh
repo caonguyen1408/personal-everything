@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script author: Cao Nguyen
-# Script site: https://www.writebash.com
 # Script date: 02-06-2020
 # Script ver: 1.0
 # Script use to install LAMP stack on CentOS 7.x
